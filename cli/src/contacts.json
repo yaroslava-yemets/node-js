@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ba309129-d0f0-49fe-96d8-389ab4d09b66",
+    "name": "Alisa",
+    "email": "alisa@gmail.com",
+    "phone": "56-87-89-282"
+  },
+  {
+    "id": "99f7e490-f069-4231-a703-2f2778e8e087",
+    "name": "Anna",
+    "email": "annaOshon@gmail.com",
+    "phone": "56-87-89-222"
+  },
+  {
+    "id": "995624e7-74c6-4342-9694-164764ec20be",
+    "name": "Rosolina",
+    "email": "rosy@gmail.com",
+    "phone": "26-17-89-282"
+  }
+]
