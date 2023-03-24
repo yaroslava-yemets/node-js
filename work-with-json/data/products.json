@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Groud almonds",
+    "price": 43,
+    "location": "Home baking",
+    "id": "85d059b5-0560-4a96-a959-c3d090a3fd28"
+  },
+  {
+    "name": "Meat",
+    "price": 23,
+    "location": "Refrigerator",
+    "id": "88c4dc43-0138-4e78-9d38-7043fbe9441c"
+  },
+  {
+    "name": "Sugar",
+    "price": 12,
+    "location": "shelf",
+    "id": "0d44384e-f334-40fa-b802-c1ba2eced0ac"
+  }
+]
